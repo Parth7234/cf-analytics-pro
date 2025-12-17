@@ -48,7 +48,7 @@ Follow these steps to run the dashboard locally on your machine.
 
 ### 1. Clone the Repository
 ```bash
-git clone [https://github.com/your-username/cf-analytics-pro.git](https://github.com/your-username/cf-analytics-pro.git)
+git clone https://github.com/Parth7234/cf-analytics-pro.git
 cd cf-analytics-pro
 ```
 
@@ -89,15 +89,14 @@ cf-analytics-pro/
 ```
 
 ## 📸 **Screenshots**
-_Add screenshots of your dashboard here once deployed_
 
-- **Dashboard Overview**  
-  _Insert Image 1_
+| Dashboard Overview |
+|:---:|
+| ![Dashboard Overview](assets/singlePlayerAnalysis.png) |
 
-- **Topic Analysis**  
-  _Insert Image 2_
-
----
+| AI Coach |
+|:---:|
+| ![AI Coach](assets/AI_coach.png) |
 
 ## 🔮 **Future Roadmap**
 - [ ] **Contest Predictor:** ML model to predict rating changes before a contest ends  
