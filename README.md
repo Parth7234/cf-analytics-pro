@@ -1,10 +1,11 @@
 # ⚔️ Codeforces Analytics: Pro Edition
 
-[🚀 View Live App](cf-analytics-pro-parth-singla-iitp.streamlit.app/)
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue?style=for-the-badge&logo=python)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Gemini AI](https://img.shields.io/badge/Gemini_2.5_Flash-8E75B2?style=for-the-badge&logo=google&logoColor=white)
 ![Codeforces](https://img.shields.io/badge/Codeforces_API-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)
+
+[**👉 Try the Live Dashboard here**](https://cf-analytics-pro-parth-singla-iitp.streamlit.app/)
 
 > **The ultimate benchmarking tool for competitive programmers.** > Visualize your progress, analyze your weak spots, and get AI-powered coaching to reach your next rating tier.
 
